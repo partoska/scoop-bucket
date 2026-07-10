@@ -1,16 +1,16 @@
 {
-  "version": "1.11.3",
+  "version": "1.11.4",
   "description": "Command-line tool to manage and sync your event photos from Partoska",
   "homepage": "https://www.partoska.com/p6a",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/partoska/p6a-cmd/releases/download/v1.11.3/p6a_1.11.3_windows_amd64.exe#/p6a.exe",
-      "hash": "c5221972b34249a044d101fc11630e796e1ecd0ca544dbe0d1ec2574badeb118"
+      "url": "https://github.com/partoska/p6a-cmd/releases/download/v1.11.4/p6a_1.11.4_windows_amd64.exe#/p6a.exe",
+      "hash": "cc7617a27d9ffccc408781083c1e3a9a574ddb6834d2fe43ef0b7ad00146fee0"
     },
     "arm64": {
-      "url": "https://github.com/partoska/p6a-cmd/releases/download/v1.11.3/p6a_1.11.3_windows_arm64.exe#/p6a.exe",
-      "hash": "f8c0cf5daf750a4e6b0d55e3e27dec3c201207ee4804ea1dabc5980d16cc4ea9"
+      "url": "https://github.com/partoska/p6a-cmd/releases/download/v1.11.4/p6a_1.11.4_windows_arm64.exe#/p6a.exe",
+      "hash": "ae703893225aa5d858baaa03ca60ad7ea6fc5a8c3a7cf84c59e89e715b839976"
     }
   },
   "bin": "p6a.exe",
