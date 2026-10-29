@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/partoska/bikini/releases/download/v1.0.0/bikini_1.0.0_windows_amd64.exe#/bikini.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "3493e635e4bb8221e2b35ef1690c1568ce835282c6845d49a4e2aebb982d7741"
     },
     "arm64": {
       "url": "https://github.com/partoska/bikini/releases/download/v1.0.0/bikini_1.0.0_windows_arm64.exe#/bikini.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "5d7cb79457fdebeac4511be3ef2d0a700610f261413c45f36357b33b6a35779f"
     }
   },
   "bin": "bikini.exe",
