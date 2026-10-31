@@ -14,6 +14,7 @@ scoop bucket add partoska https://github.com/partoska/scoop-bucket
 |-----|-------------|
 | `p6a` | Command-line tool to manage and sync your event photos from Partoska |
 | `bikini` | Query and edit INI files from the command line |
+| `cisivi` | Query and edit CSV files from the command line |
 
 ### p6a
 
@@ -27,6 +28,12 @@ scoop install partoska/p6a
 scoop install partoska/bikini
 ```
 
+### cisivi
+
+```powershell
+scoop install partoska/cisivi
+```
+
 ## Links
 
 - [Partoska](https://www.partoska.com)
@@ -35,3 +42,5 @@ scoop install partoska/bikini
 - [Issues](https://github.com/partoska/p6a-cmd/issues)
 - [bikini source](https://github.com/partoska/bikini)
 - [bikini issues](https://github.com/partoska/bikini/issues)
+- [cisivi source](https://github.com/partoska/cisivi)
+- [cisivi issues](https://github.com/partoska/cisivi/issues)
