@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/partoska/cisivi/releases/download/v1.0.0/cisivi_1.0.0_windows_amd64.exe#/cisivi.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "04d02098b30f0148eb57d54cf23dae2d7fe371e24390ae537ddeced1ab32ec1b"
     },
     "arm64": {
       "url": "https://github.com/partoska/cisivi/releases/download/v1.0.0/cisivi_1.0.0_windows_arm64.exe#/cisivi.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "hash": "5def698b217e785130e387f5937a0054532efba2cfe775b2d076704c3871b94b"
     }
   },
   "bin": "cisivi.exe",
