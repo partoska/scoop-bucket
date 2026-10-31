@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Query and edit CSV files from the command line",
   "homepage": "https://lab.partoska.com/cisivi",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/partoska/cisivi/releases/download/v1.0.0/cisivi_1.0.0_windows_amd64.exe#/cisivi.exe",
-      "hash": "04d02098b30f0148eb57d54cf23dae2d7fe371e24390ae537ddeced1ab32ec1b"
+      "url": "https://github.com/partoska/cisivi/releases/download/v1.0.1/cisivi_1.0.1_windows_amd64.exe#/cisivi.exe",
+      "hash": "d26f28ffc2e4f67c0a24cd7e10664f560602fe9ae2285d2e141a8252bcefd5f5"
     },
     "arm64": {
-      "url": "https://github.com/partoska/cisivi/releases/download/v1.0.0/cisivi_1.0.0_windows_arm64.exe#/cisivi.exe",
-      "hash": "5def698b217e785130e387f5937a0054532efba2cfe775b2d076704c3871b94b"
+      "url": "https://github.com/partoska/cisivi/releases/download/v1.0.1/cisivi_1.0.1_windows_arm64.exe#/cisivi.exe",
+      "hash": "a907718bf9fd1a7b93c2c55429664d735bfcc5d274f7edeb01f67c270ed476eb"
     }
   },
   "bin": "cisivi.exe",
