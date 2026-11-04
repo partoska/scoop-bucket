@@ -1,16 +1,16 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Query and edit INI files from the command line",
   "homepage": "https://lab.partoska.com/bikini",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/partoska/bikini/releases/download/v2.0.1/bikini_2.0.1_windows_amd64.exe#/bikini.exe",
-      "hash": "4e00080109ff4ed90af0fd87da9c82e6e71036daaedd1ac1a40fc7c02fa049e5"
+      "url": "https://github.com/partoska/bikini/releases/download/v2.0.2/bikini_2.0.2_windows_amd64.exe#/bikini.exe",
+      "hash": "7bc3ba02dc27f2f9e79c4b8ca62c6442781e9fbc3ae4470e72e94f6c37464c07"
     },
     "arm64": {
-      "url": "https://github.com/partoska/bikini/releases/download/v2.0.1/bikini_2.0.1_windows_arm64.exe#/bikini.exe",
-      "hash": "df067c26808cf4a71d51e044de26826612f491fdeacf314630b87301ec1e964d"
+      "url": "https://github.com/partoska/bikini/releases/download/v2.0.2/bikini_2.0.2_windows_arm64.exe#/bikini.exe",
+      "hash": "1706f1721bf5cf5c0b804128ba58c0f569a36a054afb30698dc4d096ce6544b2"
     }
   },
   "bin": "bikini.exe",
